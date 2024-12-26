@@ -8,7 +8,8 @@ conda activate learn-opensource-models
 ```
 
 ```
-pip install jupyter
+pip install -r requirements.txt
+# pip list --format=freeze > requirements.txt
 ```
 
 ## Run
